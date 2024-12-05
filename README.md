@@ -29,26 +29,9 @@ Run the bot
   python main.py
 ```
 
-## Update from previous version
-
-Pull the latest version
-
-```bash
-  git pull
-```
 
 Install new dependencies
 
 ```bash
    pip install -r requirements.txt
 ```
-
-## Info
-
-[+] Good news.
-
-[~] Waiting for User input.
-
-[-] Error (bad news).
-
-[#] Output.
