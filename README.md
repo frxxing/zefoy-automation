@@ -1,8 +1,8 @@
-# Tiktok-Zefoy-Generator
+# Tiktok-Zefoy-automation
 > Zefoy Automation with Chrome Selenium. Easy and Fast!
-> ![tikbot](https://github.com/Kenokey/Tiktok-Zefoy-Generator/assets/79508982/8979deea-2208-4b45-8b9b-57186c6341cb)
-> discord server if you need any help
-https://discord.gg/DnwnCrvZv8
+
+
+
 
 ## Install Locally
 
@@ -12,7 +12,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Tiktok-Zefoy-Generator
+  cd Tiktok-Zefoy-automation
 ```
 
 Install dependencies
