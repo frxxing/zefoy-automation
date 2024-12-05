@@ -1,5 +1,5 @@
 # Tiktok-Zefoy-automation
-> Zefoy Automation with Chrome Selenium. Easy and Fast!
+> Zefoy Automation with Chrome Selenium.
 
 
 
